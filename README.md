@@ -23,7 +23,7 @@ For learning Rust lang.
 ### projects
 Real projects, like games, network tools, etc.
 
-####snake
+#### snake
 
 * A simple game, simulates GREEDY SNAKE.
 * Rust 2018 Edition.
