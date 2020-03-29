@@ -19,6 +19,7 @@ For learning Rust lang.
 
 ### high
 * macro
+* error_handle
 
 ### projects
 Real projects, like games, network tools, etc.
