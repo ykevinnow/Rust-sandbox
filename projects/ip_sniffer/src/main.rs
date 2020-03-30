@@ -1,4 +1,4 @@
-// cargo run -- xxx, '--' here means 'cargo' itself input
+// cargo run -- xxx, '--' here means 'cargo' itself should be ignored
 // example:
 //         ip_sniffer -h
 //         ip_sniffer -j yyy xxx.xxx.xxx.xxx
@@ -103,7 +103,7 @@ fn main() {
     // avoid warning
     let flag = arguments.flag;
     println!("{}", flag);
-    
+
     for i in 0..num_threads {
         let tx = tx.clone();
 
