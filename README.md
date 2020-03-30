@@ -21,6 +21,7 @@ For learning Rust lang.
 * macro
 * error_handle
 * concurrency
+* tests
 
 ### projects
 Real projects, like games, network tools, etc.
