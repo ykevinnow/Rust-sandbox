@@ -35,3 +35,8 @@ Real projects, like games, network tools, etc.
 #### ip_sniffer
 * A port scanner
 * usage: ip_sniffer [-h|j] [number of threads] ipaddr
+
+#### chat
+* c/s arch for message passing
+* we broadcast all messages
+
