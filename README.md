@@ -37,9 +37,13 @@ Real projects, like games, network tools, etc.
 * usage: ip_sniffer [-h|j] [number of threads] ipaddr
 
 #### chat
-* c/s arch for message passing
-* we broadcast all messages
+* A c/s arch for message passing
+* We broadcast all messages
 
 #### web_api
-* a simple web api server in json
+* A simple web api server in json
 * with Iron
+
+#### pong
+* A ping-pong game simulator
+* With piston graphic engine
